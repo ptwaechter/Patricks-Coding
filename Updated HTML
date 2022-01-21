@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CSS Positioning Exercise</title>
+  <link rel="stylesheet" href="project1.css">
+</head> 
+<body>
+  <h1> Hey Paul...</h1>
+  <div>
+    <button>Sign Up!</button>
+  </div>
+  <hr>
+  <div class="gator">
+    <div>
+      <img id="albert" src="https://pbs.twimg.com/media/EieB_NXWsAMqNDd?format=png&name=360x360" alt="">
+    </div>
+    <div>
+      <h2 id="heading">This is Albert the Gator!</h2>
+    </div>
+    <hr>
+    <div>
+      <p id="albert3">Albert is a gator... If you're from Florida then you know him very well! Go gators... 2022 Bill Napier for the win!!! </p>
+    </div>
+  </div>
+<!-- Don't change anything here! Utilized for Project 1A  -->
+<!-- <div class="one">
+  <div class="two">
+    <div class="three">
+      <div class="four"></div>
+    </div>
+  </div>
+</div> -->
+<hr>
+<div class="football">\
+  <div class="wrap">
+  <img src="https://media2.giphy.com/media/9bKZWdzqeQtqajjyOe/giphy.gif?cid=ecf05e473a90ed7ea5ef81f02fee5fa9209849264f281916&rid=giphy.gif&ct=g" alt="">
+  <div class="caption">
+    ouch...
+  </div>
+</div>
+</div>
+</body>
